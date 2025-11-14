@@ -1,14 +1,15 @@
-
 # 🚀 Performance & Stabilité des Applicatifs  
-<link rel="stylesheet" href="assets/style.css">
-<div class="content">
-  
+
 ### _Master / Cycle Ingénieur – 3A – Dominante Développement logiciel, Test & Qualité_  
 ### _Style pédagogique, visuel et orienté ingénieur logiciel_
+
+<link rel="stylesheet" href="assets/style.css">
+<div class="content">
 
 ---
 
 ## 🌐 Bienvenue dans le cours  
+
 Ce module vous plonge au cœur des problématiques essentielles rencontrées dans les environnements professionnels modernes : **performance**, **scalabilité**, **stabilité**, **observabilité**, et **résilience** des applications.
 
 Dans un monde où les systèmes sont distribués, les utilisateurs exigeants et les charges imprévisibles, la maîtrise de la performance applicative n’est plus un “bonus” : c’est **une compétence clé d’ingénieur**.
@@ -123,7 +124,6 @@ Deux grands axes :
 ---
 
 # 🧠 Compétences visées  
-Ce module développe des compétences directement exploitées en entreprise :
 
 ### 🎛️ **Compétences techniques**
 - Profiling avancé (CPU/mémoire/GC)  
@@ -143,6 +143,7 @@ Ce module développe des compétences directement exploitées en entreprise :
 ---
 
 # 📆 Modalités d’évaluation
+
 ### 🧪 **Contrôle continu** — 50%  
 - TP notés  
 - mini-projets  
@@ -174,7 +175,5 @@ Pour toute question :
 # 🎉 Bonne navigation !  
 Vous pouvez commencer ici :  
 👉 `/01-introduction/intro.md`
-
----
 
 </div>
